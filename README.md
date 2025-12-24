@@ -28,7 +28,10 @@ Comparing the inductive biases between AdamW and Muon
 - **[MLP3-MNIST-Muon.ipynb](MLP3-MNIST-Muon.ipynb)**
 
 MLP3 on CIFAR10: Extreme overfitting in the first layer
-- **[MLP3_CIFAR10ipynb.ipynb](MLP3_CIFAR10ipynb.ipynb)**
+- **[MLP3_CIFAR10.ipynb](MLP3_CIFAR10.ipynb)**
+
+AdamW vs Muon: Muon alphas converge, but very slowly
+- **[AdamWvsMuon.ipynb](AdamWvsMuon.ipynb)**
 ---
 
 ## 🧬 LLM + Fine-Tuning Examples
